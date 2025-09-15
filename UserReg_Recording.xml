@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1757920367712,486,/submit/firefox-desktop/baseline/1/ccb5bf26-d952-480e-878e-8ea0220f8d8c-1,200,OK,,text,true,,917,3274,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/ccb5bf26-d952-480e-878e-8ea0220f8d8c,485,0,174
+1757920368349,356,/submit/firefox-desktop/usage-reporting/1/9a2987f2-265a-45c8-948c-3c96ffb78a6f-2,200,OK,,text,true,,853,1280,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/usage-reporting/1/9a2987f2-265a-45c8-948c-3c96ffb78a6f,356,0,45
+1757920368739,365,/submit/firefox-desktop/third-party-modules/1/d36535f4-ca66-4a1e-8779-c75d7a4f8240-3,200,OK,,text,true,,791,5555,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/third-party-modules/1/d36535f4-ca66-4a1e-8779-c75d7a4f8240,365,0,42
+1757920369136,381,/submit/firefox-desktop/baseline/1/86950aac-25b1-4947-a7e4-7f18a6c66e3e-4,200,OK,,text,true,,858,3251,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/86950aac-25b1-4947-a7e4-7f18a6c66e3e,381,0,47
+1757920369541,380,/submit/firefox-desktop/usage-reporting/1/0edf30d9-7eb1-4b98-9453-a4bb8bbadaee-5,200,OK,,text,true,,908,1377,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/usage-reporting/1/0edf30d9-7eb1-4b98-9453-a4bb8bbadaee,380,0,44
+1757920369941,291,/submit/firefox-desktop/messaging-system/1/98c9141e-d5a5-4461-a1c7-dc6f3aab5208-6,200,OK,,text,true,,800,3125,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/98c9141e-d5a5-4461-a1c7-dc6f3aab5208,291,0,39
+1757920370267,372,/submit/firefox-desktop/messaging-system/1/b7d81f93-89cf-4100-8360-f23c4600d1a5-7,200,OK,,text,true,,822,3556,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/b7d81f93-89cf-4100-8360-f23c4600d1a5,372,0,41
+1757920370675,264,/submit/firefox-desktop/messaging-system/1/847d1c0a-46c1-4aec-a6ca-c13ad3e9ecab-8,200,OK,,text,true,,768,3457,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/847d1c0a-46c1-4aec-a6ca-c13ad3e9ecab,264,0,38
+1757920370986,383,/submit/firefox-desktop/metrics/1/8b62f4ad-adf2-4fbc-b72e-61dc72bd701f-9,200,OK,,text,true,,827,97088,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/8b62f4ad-adf2-4fbc-b72e-61dc72bd701f,383,0,47
+1757920371393,369,/submit/firefox-desktop/newtab/1/ab039c9e-1524-41b5-a686-a15501a23865-10,200,OK,,text,true,,884,4632,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/ab039c9e-1524-41b5-a686-a15501a23865,369,0,42
+1757920371790,391,/submit/firefox-desktop/metrics/1/26ea327c-26c3-44cc-b06c-0cc95b8925d6-11,200,OK,,text,true,,824,26851,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/26ea327c-26c3-44cc-b06c-0cc95b8925d6,391,0,38
+1757920372246,443,/submit/firefox-desktop/metrics/1/0a9dbd58-86ac-498f-b8b6-1407c6a94633-12,200,OK,,text,true,,783,26799,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/0a9dbd58-86ac-498f-b8b6-1407c6a94633,443,0,52
+1757920372735,364,/submit/firefox-desktop/baseline/1/1bc0fdac-1d12-4b70-8ed1-a9e195d3e370-13,200,OK,,text,true,,751,3223,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/1bc0fdac-1d12-4b70-8ed1-a9e195d3e370,364,0,48
+1757920373131,377,/submit/firefox-desktop/usage-reporting/1/70c3d59b-3f16-4a37-ba29-63e2136dc961-14,200,OK,,text,true,,889,1308,0,0,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/usage-reporting/1/70c3d59b-3f16-4a37-ba29-63e2136dc961,377,0,50
+1757920375209,61,/canonical.html-15,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,58,0,40
+1757920375296,36,/success.txt-17,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv6,35,0,18
+1757920375297,35,/success.txt-16,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv4,34,0,17
+1757920375360,32,/success.txt-19,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv6,32,0,14
+1757920375360,32,/success.txt-18,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv4,32,0,14
+1757920384143,334,/api/event-20,202,Accepted,,text,true,,737,591,0,0,https://plausible.io/api/event,334,0,170
+1757920435214,55,/canonical.html-21,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,55,0,39
+1757920435275,29,/success.txt-22,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv4,29,0,14
+1757920435276,33,/success.txt-23,200,OK,,text,true,,235,315,0,0,http://detectportal.firefox.com/success.txt?ipv6,32,0,17
+1757920440527,669,/web/login-24,200,OK,,text,true,,14196,666,0,0,https://www.thegoodhealth.co.in/web/login,668,0,155
+1757920441269,345,/api/event-25,202,Accepted,,text,true,,737,591,0,0,https://plausible.io/api/event,344,0,170
+1757920441291,434,/js/plausible.js-26,200,OK,,text,true,,2204,386,0,0,https://plausible.io/js/plausible.js,184,0,149
+1757920441291,592,/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2-27,200,OK,,text,true,,77648,679,0,0,https://www.thegoodhealth.co.in/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0,207,0,109
+1757920441378,543,/web/image/278919-f78a5b7f/Icons.webp-28,200,OK,,bin,true,,100159,654,0,0,https://www.thegoodhealth.co.in/web/image/278919-f78a5b7f/Icons.webp,174,0,90
+1757920441784,235,/api/event-29,202,Accepted,,text,true,,737,620,0,0,https://plausible.io/api/event,235,0,34
+1757920442239,127,/im_livechat/init-30,200,OK,,text,true,,814,707,0,0,https://www.thegoodhealth.co.in/im_livechat/init,126,0,69
+1757920442310,129,/social_push_notifications/static/lib/firebase.js-34,304,NOT MODIFIED,,,true,,386,673,0,0,https://www.thegoodhealth.co.in/social_push_notifications/static/lib/firebase.js,0,0,71
+1757920442249,215,/im_livechat/odoo_ui_icons-33,200,OK,,text,true,,6767,633,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,215,0,95
+1757920442478,125,/v1/buckets/monitor/collections/changes/changeset-35,200,OK,,text,true,,957,365,0,0,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=fxrelay-allowlist&bucket=main&_expected=0,125,0,74
+1757920442632,44,/v1/buckets/main/collections/fxrelay-allowlist/changeset-36,200,OK,,text,true,,6352,388,0,0,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/fxrelay-allowlist/changeset?_expected=1755779749740,44,0,28
+1757920442243,567,/im_livechat/font-awesome-32,200,OK,,text,true,,77730,632,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,262,0,79
+1757920442237,629,/im_livechat/assets_embed.css-31,200,OK,,text,true,,86683,592,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,293,0,85
+1757920442802,88,/firebasejs/10.14.1/firebase-messaging.js-37,200,OK,,text,true,,9483,452,0,0,https://www.gstatic.com/firebasejs/10.14.1/firebase-messaging.js,86,0,68
+1757920442914,88,/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-10-19-08-10-44.chain-39,304,Not Modified,,,true,,190,450,0,0,https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-10-19-08-10-44.chain,0,0,63
+1757920442913,329,/firebasejs/10.14.1/firebase-app.js-38,200,OK,,text,true,,23606,446,0,0,https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js,78,0,62
+1757920443288,143,/social_push_notifications/fetch_push_configuration-40,200,OK,,text,true,,389,727,0,0,https://www.thegoodhealth.co.in/social_push_notifications/fetch_push_configuration,141,0,90
+1757920446771,308,/api/event-41,202,Accepted,,text,true,,737,600,0,0,https://plausible.io/api/event,308,0,56
+1757920474879,328,/api/event-42,202,Accepted,,text,true,,737,600,0,0,https://plausible.io/api/event,328,0,98
+1757920480353,680,/web/signup-43,200,OK,,text,true,,14061,676,0,0,https://www.thegoodhealth.co.in/web/signup,678,0,93
+1757920481182,255,/api/event-44,202,Accepted,,text,true,,737,630,0,0,https://plausible.io/api/event,254,0,89
+1757920481502,445,/im_livechat/font-awesome-47,304,NOT MODIFIED,,,true,,485,728,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,0,0,93
+1757920481509,449,/im_livechat/odoo_ui_icons-48,304,NOT MODIFIED,,,true,,479,729,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,0,0,80
+1757920481479,485,/im_livechat/init-45,200,OK,,text,true,,814,708,0,0,https://www.thegoodhealth.co.in/im_livechat/init,484,0,88
+1757920481499,857,/im_livechat/assets_embed.css-46,200,OK,,text,true,,86691,593,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,510,0,87
+1757920485479,244,/api/event-49,202,Accepted,,text,true,,737,601,0,0,https://plausible.io/api/event,243,0,66
+1757920689315,815,/web/login-50,200,OK,,text,true,,14193,676,0,0,https://www.thegoodhealth.co.in/web/login,814,0,98
+1757920690231,312,/api/event-52,202,Accepted,,text,true,,737,630,0,0,https://plausible.io/api/event,312,0,83
+1757920690163,404,/api/event-51,202,Accepted,,text,true,,737,601,0,0,https://plausible.io/api/event,404,0,150
+1757920690561,151,/im_livechat/init-53,200,OK,,text,true,,814,707,0,0,https://www.thegoodhealth.co.in/im_livechat/init,151,0,86
+1757920690568,144,/im_livechat/font-awesome-55,304,NOT MODIFIED,,,true,,485,727,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,0,0,87
+1757920690568,154,/im_livechat/odoo_ui_icons-56,304,NOT MODIFIED,,,true,,479,728,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,0,0,87
+1757920690563,689,/im_livechat/assets_embed.css-54,200,OK,,text,true,,86691,592,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,181,0,92
+1757920693697,322,/api/event-57,202,Accepted,,text,true,,737,600,0,0,https://plausible.io/api/event,322,0,136
+1757920717861,633,/web/signup-58,200,OK,,text,true,,14066,676,0,0,https://www.thegoodhealth.co.in/web/signup,632,0,98
+1757920718633,327,/api/event-59,202,Accepted,,text,true,,737,630,0,0,https://plausible.io/api/event,327,0,122
+1757920718940,166,/im_livechat/font-awesome-62,304,NOT MODIFIED,,,true,,485,728,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,0,0,110
+1757920718943,178,/im_livechat/odoo_ui_icons-63,304,NOT MODIFIED,,,true,,479,729,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,0,0,107
+1757920718938,206,/im_livechat/init-60,200,OK,,text,true,,814,708,0,0,https://www.thegoodhealth.co.in/im_livechat/init,206,0,112
+1757920718938,682,/im_livechat/assets_embed.css-61,200,OK,,text,true,,86683,593,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,205,0,112
+1757920781378,2378,/web/signup-65,303,SEE OTHER,,text,true,,702,966,0,0,https://www.thegoodhealth.co.in/web/signup,2377,0,94
+1757920783799,962,/my-66,200,OK,,text,true,,19700,669,0,0,https://www.thegoodhealth.co.in/my,695,0,75
+1757920784904,280,/api/event-68,202,Accepted,,text,true,,737,623,0,0,https://plausible.io/api/event,280,0,109
+1757920784846,338,/api/event-67,202,Accepted,,text,true,,737,602,0,0,https://plausible.io/api/event,338,0,167
+1757920785194,109,/website/translations/67e091f9ca75e7c9c78707dd6afdce628da19b5b-69,200,OK,,text,true,,981,611,0,0,https://www.thegoodhealth.co.in/website/translations/67e091f9ca75e7c9c78707dd6afdce628da19b5b?lang=en_IN,108,0,67
+1757920785387,137,/im_livechat/font-awesome-73,304,NOT MODIFIED,,,true,,485,720,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,0,0,85
+1757920785378,155,/im_livechat/init-72,200,OK,,text,true,,1128,700,0,0,https://www.thegoodhealth.co.in/im_livechat/init,155,0,92
+1757920785371,171,/im_livechat/odoo_ui_icons-71,304,NOT MODIFIED,,,true,,479,721,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,0,0,99
+1757920785424,161,/my/counters-74,200,OK,,text,true,,633,755,0,0,https://www.thegoodhealth.co.in/my/counters,160,0,84
+1757920785441,173,/my/counters-75,200,OK,,text,true,,644,770,0,0,https://www.thegoodhealth.co.in/my/counters,172,0,96
+1757920785556,153,/my/counters-76,200,OK,,text,true,,638,759,0,0,https://www.thegoodhealth.co.in/my/counters,152,0,79
+1757920785368,490,/im_livechat/assets_embed.css-70,200,OK,,text,true,,86691,585,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,155,0,83
+1757920788641,269,/api/event-81,202,Accepted,,text,true,,737,593,0,0,https://plausible.io/api/event,268,0,86
+1757920788370,612,/K5GyLX0/unlock-setting.png-78,200,OK,,bin,true,,2013,476,0,0,https://i.ibb.co/K5GyLX0/unlock-setting.png,612,0,441
+1757920788370,674,/TW5rSJ3/icons8-bill-64.png-80,200,OK,,bin,true,,649,476,0,0,https://i.ibb.co/TW5rSJ3/icons8-bill-64.png,673,0,486
+1757920788370,840,/mNsXy2q/wallet.png-79,200,OK,,bin,true,,1726,468,0,0,https://i.ibb.co/mNsXy2q/wallet.png,839,0,437
+1757920788369,841,/XyXN5RV/Orders.png-77,200,OK,,bin,true,,1859,468,0,0,https://i.ibb.co/XyXN5RV/Orders.png,841,0,454
+1757920819574,147,/web/session/logout-82,303,SEE OTHER,,text,true,,858,690,0,0,https://www.thegoodhealth.co.in/web/session/logout?redirect=%2F,147,0,96
+1757920819735,644,/-83,200,OK,,text,true,,22072,659,0,0,https://www.thegoodhealth.co.in/,240,0,77
+1757920820881,140,/im_livechat/font-awesome-88,304,NOT MODIFIED,,,true,,485,718,0,0,https://www.thegoodhealth.co.in/im_livechat/font-awesome,0,0,83
+1757920820872,168,/im_livechat/init-86,200,OK,,text,true,,814,698,0,0,https://www.thegoodhealth.co.in/im_livechat/init,168,0,94
+1757920820883,160,/im_livechat/odoo_ui_icons-89,304,NOT MODIFIED,,,true,,479,719,0,0,https://www.thegoodhealth.co.in/im_livechat/odoo_ui_icons,0,0,89
+1757920820954,131,/website_mass_mailing/is_subscriber-91,200,OK,,text,true,,423,741,0,0,https://www.thegoodhealth.co.in/website_mass_mailing/is_subscriber,130,0,81
+1757920820543,622,/api/event-85,202,Accepted,,text,true,,737,613,0,0,https://plausible.io/api/event,621,0,138
+1757920820876,562,/im_livechat/assets_embed.css-87,200,OK,,text,true,,86691,583,0,0,https://www.thegoodhealth.co.in/im_livechat/assets_embed.css,164,0,83
+1757920820953,598,/website/snippet/filters-90,200,OK,,text,true,,2395,869,0,0,https://www.thegoodhealth.co.in/website/snippet/filters,597,0,81
+1757920821050,650,/website/snippet/filters-92,200,OK,,text,true,,2440,885,0,0,https://www.thegoodhealth.co.in/website/snippet/filters,649,0,92
+1757920821069,642,/website/snippet/filters-93,200,OK,,text,true,,1769,872,0,0,https://www.thegoodhealth.co.in/website/snippet/filters,642,0,77
+1757920820444,1335,/api/event-84,202,Accepted,,text,true,,737,593,0,0,https://plausible.io/api/event,1335,0,324
+1757920821623,185,/web/image/product.product/971/image_512-94,200,OK,,bin,true,,33998,663,0,0,https://www.thegoodhealth.co.in/web/image/product.product/971/image_512?unique=1b0aef5,156,0,81
+1757920821633,474,/web/image/product.product/727/image_512-95,200,OK,,bin,true,,34370,663,0,0,https://www.thegoodhealth.co.in/web/image/product.product/727/image_512?unique=89c2504,157,0,86
+1757920821637,553,/web/image/product.product/717/image_512-96,200,OK,,bin,true,,38989,663,0,0,https://www.thegoodhealth.co.in/web/image/product.product/717/image_512?unique=89c2504,193,0,98
+1757920821778,499,/web/image/product.template/845/image_512-99,200,OK,,bin,true,,32487,664,0,0,https://www.thegoodhealth.co.in/web/image/product.template/845/image_512?unique=79b7cb8,191,0,117
+1757920821776,517,/web/image/product.template/822/image_512-98,200,OK,,bin,true,,30047,664,0,0,https://www.thegoodhealth.co.in/web/image/product.template/822/image_512?unique=79b7cb8,193,0,119
+1757920821827,483,/web/image/product.template/821/image_512-100,200,OK,,bin,true,,31707,664,0,0,https://www.thegoodhealth.co.in/web/image/product.template/821/image_512?unique=79b7cb8,202,0,88
+1757920821773,574,/web/image/product.template/866/image_512-97,200,OK,,bin,true,,75973,664,0,0,https://www.thegoodhealth.co.in/web/image/product.template/866/image_512?unique=79b7cb8,246,0,122
+1757920822361,168,/web/image/product.product/840/image_512-107,200,OK,,bin,true,,39687,663,0,0,https://www.thegoodhealth.co.in/web/image/product.product/840/image_512?unique=a845470,144,0,74
