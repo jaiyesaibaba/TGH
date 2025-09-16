@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1758009981170,956,Home Page,200,OK,All Products 1-1,text,true,,107588,250,1,1,https://www.thegoodhealth.co.in/,265,0,220
+1758009981170,268,Home Page-0,301,Moved Permanently,All Products 1-1,text,true,,412,125,1,1,http://www.thegoodhealth.co.in/,265,0,220
+1758009981440,686,Home Page-1,200,OK,All Products 1-1,text,true,,107176,125,1,1,https://www.thegoodhealth.co.in/,613,0,543
+1758009982131,268,All Products,200,OK,All Products 1-1,text,true,,156228,258,1,1,https://www.thegoodhealth.co.in/shop,36,0,0
+1758009982131,36,All Products-0,301,Moved Permanently,All Products 1-1,text,true,,416,129,1,1,http://www.thegoodhealth.co.in/shop,36,0,0
+1758009982167,232,All Products-1,200,OK,All Products 1-1,text,true,,155812,129,1,1,https://www.thegoodhealth.co.in/shop,191,0,0
+1758009982400,209,Healthy Sweets,200,OK,All Products 1-1,text,true,,139978,312,1,1,https://www.thegoodhealth.co.in/shop/category/healthy-sweets-14,35,0,0
+1758009982400,35,Healthy Sweets-0,301,Moved Permanently,All Products 1-1,text,true,,443,156,1,1,http://www.thegoodhealth.co.in/shop/category/healthy-sweets-14,35,0,0
+1758009982435,174,Healthy Sweets-1,200,OK,All Products 1-1,text,true,,139535,156,1,1,https://www.thegoodhealth.co.in/shop/category/healthy-sweets-14,170,0,0
